@@ -17,6 +17,7 @@ if __name__ == "__main__":
     if len(sys.argv)<3:
         print(f"Usage: {sys.argv[0]} broker topic")
         sys.exit(1)
+    # pasar como argumentos en la consola el broker y el topic
     broker = sys.argv[1]
     topic = sys.argv[2]
     main(broker, topic)
