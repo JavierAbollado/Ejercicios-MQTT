@@ -1,0 +1,7 @@
+consumidor_multiple, escucha muchos topics
+
+consumidor_dinamico, la lista de subscripción puede ser dinámica e ir alterándose
+
+consumidor_multitarea: capaz de escuchar (subscribe) y de hacer otra cosa (tonta, escribir puntitos)
+
+filtro, recibe mensajes (subscribe) y, en función de ellos, envía otros (publish). 

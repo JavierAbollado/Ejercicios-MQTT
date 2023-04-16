@@ -1,0 +1,16 @@
+Lanza client_s_pickle.py y comienza a escuchar en un topic.
+
+Con el client_p_picle.py queremos mandar datos estructurados, no sólo cadenas de caracteres. Por ejemplo queremos enviar una lista y que se reciba como tal.
+
+Ejemplo de ejecución:
+
+python3 client_p_pickle.py 
+topic? A
+message?[1,2,3,4]
+message?{1:"hola",2:"adios"}
+message?
+
+python3 client_s_pickle.py 
+topic? A
+A [1, 2, 3, 4] <class 'list'>
+A {1: 'hola', 2: 'adios'} <class 'dict'>

@@ -1,0 +1,2 @@
+1. Lanza ubuntu.py y elige un topic al que suscribir al cliente
+2. Ejecuta client_p.py y envía mensajes al topic elegido antes. Observa cómo ubuntu informa de ello.

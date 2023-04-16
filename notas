@@ -1,0 +1,15 @@
+1. directorio "basico"
+   Como conectarse con un broker y enviar o escuchar en un topic.
+
+2. directorio "cliente"
+   Podemos crear conexiones con el broker (cliente) que permitan tanto enviar como escuchar topics. 
+
+3. directorio "casos"
+   Algunos esquemas con usos típicos
+   
+4. directorio "extra"
+   Integración de mqtt con otras funcionalidades: notificaciones ubuntu, ventanas tkinter, etc.
+
+
+Un tema importante a investigar son las posibilidades "estructuradas" de los topics: jerarquía /, wildcards +, #...
+

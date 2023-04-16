@@ -1,0 +1,5 @@
+1. client_p.py y client_s.py son dos clientes para publicar y suscribir.
+
+2. El client_methods.py nos permite ver los métodos que podemos utilizar para responder a diferentes eventos.
+
+Nota: Ten en cuenta que tienes que utilizar una dirección de broker adecuada.

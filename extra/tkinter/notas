@@ -1,0 +1,5 @@
+Nota:
+no olvides actualizar la dirección del broker
+
+1. lanza client_s_tkinter.py y elige un topic al que suscribir al cliente
+2. Ejecuta client_p_robust.py y envía mensajes al topic elegido antes. Observa cómo en la ventana aparecen los mensajes.
