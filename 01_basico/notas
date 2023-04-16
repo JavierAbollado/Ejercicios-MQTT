@@ -1,0 +1,16 @@
+Se puede publicar y suscribir de forma sencilla: 1 vez
+
+básico
+
+0_publish.py
+0_subscribe.py
+
+con algo más de 'programación'
+
+1_publish.py
+1_subscribe.py
+
+probar con varios publishers and subscribers..
+
+Si el suscriptor no está conectado, pierde los mensajes.
+Puede haber muchos suscriptores. Todos reciben los mensajes
