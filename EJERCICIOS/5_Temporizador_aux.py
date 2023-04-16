@@ -1,3 +1,7 @@
+"""
+    Recibir los datos (tiempo_espera, topic, mensaje) directo por consola
+"""
+
 from paho.mqtt.client import Client
 import sys
 import time
